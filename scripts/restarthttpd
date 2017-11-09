@@ -1,0 +1,4 @@
+#!/bin/sh
+stophttpd
+sleep 3
+starthttpd
