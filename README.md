@@ -1,2 +1,3 @@
 # medusade -- Medusa Development Environment
-medusade applications meta projects for medusade
+a cross-platform and cross-framework development environment<br/>
+using code generation for C++ and other programming languages
